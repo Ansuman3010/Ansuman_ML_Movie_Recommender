@@ -5,7 +5,7 @@ import time
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-API_KEY = "ad17e9dcc720cdf1b845ab08024f6609"
+API_KEY = st.secrets["TMDB_API_KEY"]
 
 st.set_page_config(
     page_title="Movie Recommender",
