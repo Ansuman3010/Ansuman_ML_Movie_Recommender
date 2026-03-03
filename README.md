@@ -8,7 +8,7 @@ dynamically fetches movie posters using the TMDB API.
 
 ## 🚀 Live Demo
 
-(Add your deployed Streamlit app link here)
+https://ansumanmlmovierecommender-rsrfxzkgg4za5pcznfdoyt.streamlit.app/
 
 ------------------------------------------------------------------------
 
