@@ -40,7 +40,7 @@ Movie_Recommender/
 │
 ├── app.py
 ├── movies.pkl
-├── similarities.pkl
+├── Movie_Reconmmender.ipynb
 ├── requirements.txt
 └── README.md
 ```
